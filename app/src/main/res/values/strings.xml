@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CentreLocator</string>
+    <string name="nearby_locations">Nearby Locations</string>
+</resources>
